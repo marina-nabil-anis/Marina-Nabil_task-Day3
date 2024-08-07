@@ -1,0 +1,30 @@
+#MyIMG{
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+}
+
+#info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h2{
+    color: white;
+    font-weight: 600;
+    
+}
+
+#Place{
+    color:  hsl(75, 94%, 57%);
+    margin-top: 0;
+    font-size: 14px;
+}
+
+p{
+    font-size: 14px;
+    color: white;
+    font-weight: 100;
+}

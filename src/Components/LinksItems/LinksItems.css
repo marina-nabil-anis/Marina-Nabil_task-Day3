@@ -1,0 +1,15 @@
+.MyBtns{
+    width: 90%;
+    height: 40px;
+    background-color:hsl(0, 0%, 20%);
+    border-radius: 10px;
+    border: none;
+    color: white;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.MyBtns:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 12%);
+}
